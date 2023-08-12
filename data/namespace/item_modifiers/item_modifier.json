@@ -1,0 +1,9 @@
+[
+    {
+      "function": "minecraft:copy_nbt",
+      "source": {
+      },
+      "ops": [
+      ]
+    }
+  ]
